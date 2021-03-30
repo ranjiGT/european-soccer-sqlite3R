@@ -2,6 +2,7 @@ library(RSQLite)
 library(stringr)
 library(dplyr)
 library(tidyverse)
+library(lubridate)
 
 #-------------------------------------------
 con <- dbConnect(SQLite(), dbname = "EuropeanSoccer.sqlite")
