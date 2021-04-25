@@ -1,4 +1,4 @@
-# Preface
+# `Preface - EU Soccer Database`
 The European Soccer Database contains data on more than 25.000 national football matches from the best European leagues. The aim of this exercise is to present interesting relationships in R using explorative data analysis and visualization.
 
 # Case description
